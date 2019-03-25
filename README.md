@@ -1,6 +1,6 @@
 ![bitcoin isp](bisp.png)
 
-# btcstream
+# BTCBase
 Portable satellite, high-powered Wifi, and goTenna enabled base station for:
 * Receiving and rebroadcasting Blockstream Satellite data
 * Providing initial block download
