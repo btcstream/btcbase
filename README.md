@@ -6,10 +6,19 @@ Portable satellite, high-powered Wifi, and goTenna enabled base station for:
 * Serving an Esplora block explorer instance
 * Serving critical binaries (Bitcoin Core, ABCore, etc.)
 
-### Requirements
-* Blockstream Satellite Receiver software
+## Requirements
+
+### Hardware 
 * Satellite hardware (>= 45cm dish, appropriate LNB, SDR)
 * WiFi access point 
 * goTenna Mesh hardware
-* Relatively modern Linux computer with Ethernet NIC
+* Relatively modern computer with Ethernet NIC
 
+### Software
+* Blocksteam Satellite Receiver latest version
+* Linux (Ubuntu or Xubuntu for ease of use / installation)
+* `txtenna-python`
+* Bitcoin FIBRE
+* Esplora
+* Nginx
+* Ability to route packets Ethernet <-> WiFi AP (easy with Ubuntu / Xubuntu)
